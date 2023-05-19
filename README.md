@@ -1,8 +1,12 @@
-![MasterHead](https://www.ualberta.ca/human-resources-health-safety-environment/media-library/managing-and-administration/hybrid-workplace/work-from-home-program-lg.png)
+<!-- ![MasterHead](https://www.ualberta.ca/human-resources-health-safety-environment/media-library/managing-and-administration/hybrid-workplace/work-from-home-program-lg.png) -->
 <h1 align="center">Hello 👋, I'm Dhanush GH</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<!-- <img align="right" alt="Coding" width="290" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"> -->
+ 
+ <img align="right" alt="Coding" width="350" height="200" src="https://www.ualberta.ca/human-resources-health-safety-environment/media-library/managing-and-administration/hybrid-workplace/work-from-home-program-lg.png">
 
+ 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushgh&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushgh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@dhanush_gh" target="blank"><img src="https://img.shields.io/twitter/follow/dhanush_gh?logo=twitter&style=for-the-badge" alt="@dhanush_gh" /></a> </p>
