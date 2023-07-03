@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋  My name is Dhanush GH.</h1>
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="center">As a fullstack developer my passion is creating webapps that are seamless and have best user experience by using latest technologies.</h3>
+<h1 >Hi 👋  My name is Dhanush GH.</h1>
+<h3>Full Stack Developer</h3>
+<h3>As a fullstack developer my passion is creating webapps that are seamless and have best user experience by using latest technologies.</h3>
  
 -  📌  I’m from **Bengaluru, KA, IN**
 
